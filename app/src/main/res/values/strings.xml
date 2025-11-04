@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">homework_5</string>
-    <string name="periodic_refresh_minutes">Период обновления данных(минуты)</string>
-    <string name="delay_first_launch_sec">Отсрочка первого обновления(секунды)</string>
-    <string name="save_setting">Сохранить настройки</string>
     <string name="navbar_icon">" NavBar Icon"</string>
 </resources>
