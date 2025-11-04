@@ -1,2 +1,4 @@
 <resources>
+    <string name="app_name">homework_5</string>
+    <string name="navbar_icon">" NavBar Icon"</string>
 </resources>
